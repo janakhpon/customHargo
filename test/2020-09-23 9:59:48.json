@@ -1,0 +1,200 @@
+[
+    {
+        "URL": "http://localhost:3001/auth/login",
+        "Status": 200,
+        "StartTime": "2020-09-23T09:59:46.572807334+06:30",
+        "EndTime": "2020-09-23T09:59:46.685434248+06:30",
+        "Latency": 112,
+        "Method": "POST",
+        "HarFile": "simple.har"
+    },
+    {
+        "URL": "http://localhost:3001/api",
+        "Status": 200,
+        "StartTime": "2020-09-23T09:59:46.685745929+06:30",
+        "EndTime": "2020-09-23T09:59:46.687756311+06:30",
+        "Latency": 2,
+        "Method": "OPTIONS",
+        "HarFile": "simple.har"
+    },
+    {
+        "URL": "http://localhost:3001/api",
+        "Status": 200,
+        "StartTime": "2020-09-23T09:59:46.688035011+06:30",
+        "EndTime": "2020-09-23T09:59:46.885138435+06:30",
+        "Latency": 197,
+        "Method": "POST",
+        "HarFile": "simple.har"
+    },
+    {
+        "URL": "http://localhost:3001/api",
+        "Status": 200,
+        "StartTime": "2020-09-23T09:59:46.885938134+06:30",
+        "EndTime": "2020-09-23T09:59:46.890854854+06:30",
+        "Latency": 4,
+        "Method": "OPTIONS",
+        "HarFile": "simple.har"
+    },
+    {
+        "URL": "http://localhost:3001/api",
+        "Status": 200,
+        "StartTime": "2020-09-23T09:59:46.891428481+06:30",
+        "EndTime": "2020-09-23T09:59:46.897305555+06:30",
+        "Latency": 5,
+        "Method": "OPTIONS",
+        "HarFile": "simple.har"
+    },
+    {
+        "URL": "http://localhost:3001/api",
+        "Status": 200,
+        "StartTime": "2020-09-23T09:59:46.897865953+06:30",
+        "EndTime": "2020-09-23T09:59:47.093632411+06:30",
+        "Latency": 195,
+        "Method": "POST",
+        "HarFile": "simple.har"
+    },
+    {
+        "URL": "http://localhost:3001/auth/login",
+        "Status": 200,
+        "StartTime": "2020-09-23T09:59:47.094453774+06:30",
+        "EndTime": "2020-09-23T09:59:47.097100439+06:30",
+        "Latency": 2,
+        "Method": "OPTIONS",
+        "HarFile": "simple.har"
+    },
+    {
+        "URL": "http://localhost:3001/api",
+        "Status": 200,
+        "StartTime": "2020-09-23T09:59:47.097760167+06:30",
+        "EndTime": "2020-09-23T09:59:47.100431752+06:30",
+        "Latency": 2,
+        "Method": "OPTIONS",
+        "HarFile": "simple.har"
+    },
+    {
+        "URL": "http://localhost:3001/api",
+        "Status": 200,
+        "StartTime": "2020-09-23T09:59:47.101259055+06:30",
+        "EndTime": "2020-09-23T09:59:47.30830865+06:30",
+        "Latency": 207,
+        "Method": "POST",
+        "HarFile": "simple.har"
+    },
+    {
+        "URL": "http://localhost:3001/auth/login",
+        "Status": 200,
+        "StartTime": "2020-09-23T09:59:47.30875627+06:30",
+        "EndTime": "2020-09-23T09:59:47.432233095+06:30",
+        "Latency": 123,
+        "Method": "POST",
+        "HarFile": "simple.har"
+    },
+    {
+        "URL": "http://localhost:3001/auth/login",
+        "Status": 200,
+        "StartTime": "2020-09-23T09:59:47.43341306+06:30",
+        "EndTime": "2020-09-23T09:59:47.448746422+06:30",
+        "Latency": 15,
+        "Method": "OPTIONS",
+        "HarFile": "simple.har"
+    },
+    {
+        "URL": "http://localhost:3001/api",
+        "Status": 200,
+        "StartTime": "2020-09-23T09:59:47.449813553+06:30",
+        "EndTime": "2020-09-23T09:59:47.639031003+06:30",
+        "Latency": 189,
+        "Method": "POST",
+        "HarFile": "simple.har"
+    },
+    {
+        "URL": "http://localhost:3001/auth/login",
+        "Status": 200,
+        "StartTime": "2020-09-23T09:59:47.639906379+06:30",
+        "EndTime": "2020-09-23T09:59:47.759857776+06:30",
+        "Latency": 119,
+        "Method": "POST",
+        "HarFile": "simple.har"
+    },
+    {
+        "URL": "http://localhost:3001/api",
+        "Status": 200,
+        "StartTime": "2020-09-23T09:59:47.760702112+06:30",
+        "EndTime": "2020-09-23T09:59:47.765759042+06:30",
+        "Latency": 5,
+        "Method": "OPTIONS",
+        "HarFile": "simple.har"
+    },
+    {
+        "URL": "http://localhost:3001/api",
+        "Status": 200,
+        "StartTime": "2020-09-23T09:59:47.766530208+06:30",
+        "EndTime": "2020-09-23T09:59:47.974301427+06:30",
+        "Latency": 207,
+        "Method": "POST",
+        "HarFile": "simple.har"
+    },
+    {
+        "URL": "http://localhost:3001/auth/login",
+        "Status": 200,
+        "StartTime": "2020-09-23T09:59:47.975212761+06:30",
+        "EndTime": "2020-09-23T09:59:48.008009874+06:30",
+        "Latency": 32,
+        "Method": "OPTIONS",
+        "HarFile": "simple.har"
+    },
+    {
+        "URL": "http://localhost:3001/api",
+        "Status": 200,
+        "StartTime": "2020-09-23T09:59:48.009329525+06:30",
+        "EndTime": "2020-09-23T09:59:48.203293904+06:30",
+        "Latency": 193,
+        "Method": "POST",
+        "HarFile": "simple.har"
+    },
+    {
+        "URL": "http://localhost:3001/auth/login",
+        "Status": 200,
+        "StartTime": "2020-09-23T09:59:48.204304395+06:30",
+        "EndTime": "2020-09-23T09:59:48.318907016+06:30",
+        "Latency": 114,
+        "Method": "POST",
+        "HarFile": "simple.har"
+    },
+    {
+        "URL": "http://localhost:3001/api",
+        "Status": 200,
+        "StartTime": "2020-09-23T09:59:48.319671203+06:30",
+        "EndTime": "2020-09-23T09:59:48.330038776+06:30",
+        "Latency": 10,
+        "Method": "OPTIONS",
+        "HarFile": "simple.har"
+    },
+    {
+        "URL": "http://localhost:3001/api",
+        "Status": 200,
+        "StartTime": "2020-09-23T09:59:48.330858298+06:30",
+        "EndTime": "2020-09-23T09:59:48.546278452+06:30",
+        "Latency": 215,
+        "Method": "POST",
+        "HarFile": "simple.har"
+    },
+    {
+        "URL": "http://localhost:3001/api",
+        "Status": 200,
+        "StartTime": "2020-09-23T09:59:48.547065879+06:30",
+        "EndTime": "2020-09-23T09:59:48.551306242+06:30",
+        "Latency": 4,
+        "Method": "OPTIONS",
+        "HarFile": "simple.har"
+    },
+    {
+        "URL": "http://localhost:3001/api",
+        "Status": 200,
+        "StartTime": "2020-09-23T09:59:48.552109229+06:30",
+        "EndTime": "2020-09-23T09:59:48.559194801+06:30",
+        "Latency": 7,
+        "Method": "OPTIONS",
+        "HarFile": "simple.har"
+    }
+]
